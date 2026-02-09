@@ -20,7 +20,7 @@
   "main": "lib/index.js",
   "dependencies": {
     "badge-maker": "^5.0.2",
-    "firebase-admin": "^13.6.0",
+    "firebase-admin": "^13.6.1",
     "firebase-functions": "^7.0.5",
     "moment": "^2.30.1"
   },
