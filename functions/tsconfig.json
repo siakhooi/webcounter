@@ -1,10 +1,11 @@
 {
   "compilerOptions": {
-    "module": "ES2022",
-    "moduleResolution": "node",
+    "module": "NodeNext",
+    "moduleResolution": "nodeNext",
     "noImplicitReturns": true,
     "noUnusedLocals": true,
     "outDir": "lib",
+    "rootDir": "src",
     "sourceMap": true,
     "strict": true,
     "esModuleInterop": true,
@@ -12,6 +13,7 @@
     "skipLibCheck": true,
     "resolveJsonModule": true
   },
+  "ignoreDeprecations": "6.0",
   "compileOnSave": true,
   "include": [
     "src"
