@@ -15,7 +15,7 @@
     "test:coverage": "NODE_OPTIONS=--experimental-vm-modules jest --coverage"
   },
   "engines": {
-    "node": "20"
+    "node": ">=20"
   },
   "main": "lib/index.js",
   "dependencies": {
