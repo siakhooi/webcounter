@@ -103,15 +103,14 @@ var LANGKASUKA_WEBCOUNTER = { count: nnn };
 ![GitHub last commit](https://img.shields.io/github/last-commit/siakhooi/webcounter?logo=github)
 ![GitHub top language](https://img.shields.io/github/languages/top/siakhooi/webcounter?logo=github)
 ![GitHub language count](https://img.shields.io/github/languages/count/siakhooi/webcounter?logo=github)
-![Lines of code](https://img.shields.io/tokei/lines/github/siakhooi/webcounter?logo=github)
 ![GitHub repo size](https://img.shields.io/github/repo-size/siakhooi/webcounter?logo=github)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/siakhooi/webcounter?logo=github)
 ![Workflow](https://img.shields.io/badge/Workflow-github-purple)
 ![workflow](https://github.com/siakhooi/webcounter/actions/workflows/deploy-firebase.yaml/badge.svg)
 
 ![Quality-Qlty](https://img.shields.io/badge/Quality-Qlty-purple)
-[![Maintainability](https://qlty.sh/gh/siakhooi/projects/webcounter/maintainability.svg)](https://qlty.sh/gh/siakhooi/projects/webcounter
-[![Code Coverage](https://qlty.sh/gh/siakhooi/projects/webcounter/coverage.svg)](https://qlty.sh/gh/siakhooi/projects/webcounter
+[![Maintainability](https://qlty.sh/gh/siakhooi/projects/webcounter/maintainability.svg)](https://qlty.sh/gh/siakhooi/projects/webcounter)
+[![Code Coverage](https://qlty.sh/gh/siakhooi/projects/webcounter/coverage.svg)](https://qlty.sh/gh/siakhooi/projects/webcounter)
 
 ![Quality-Sonar](https://img.shields.io/badge/Quality-SonarCloud-purple)
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=siakhooi_firebase-webcounter-langkasuka&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=siakhooi_firebase-webcounter-langkasuka)
@@ -133,6 +132,5 @@ var LANGKASUKA_WEBCOUNTER = { count: nnn };
 ![Sonar Violations (short format)](https://img.shields.io/sonar/info_violations/siakhooi_firebase-webcounter-langkasuka?server=https%3A%2F%2Fsonarcloud.io)
 ![Sonar Violations (long format)](https://img.shields.io/sonar/violations/siakhooi_firebase-webcounter-langkasuka?format=long&server=http%3A%2F%2Fsonarcloud.io)
 
-[![Generic badge](https://img.shields.io/badge/Funding-BuyMeACoffee-33cb56.svg)](https://www.buymeacoffee.com/siakhooi)
-[![Generic badge](https://img.shields.io/badge/Funding-Ko%20Fi-33cb56.svg)](https://ko-fi.com/siakhooi)
+[![Wise](https://img.shields.io/badge/Funding-Wise-33cb56.svg?logo=wise)](https://wise.com/pay/me/siakn3)
 ![count](https://hit-tztugwlsja-uc.a.run.app/?outputtype=badge&counter=ghmd-firebase-webcounter)
