@@ -34,7 +34,7 @@
     "eslint": "^9.39.2",
     "eslint-config-google": "^0.14.0",
     "eslint-plugin-import": "^2.31.0",
-    "firebase-functions-test": "^3.4.0",
+    "firebase-functions-test": "^3.5.0",
     "globals": "^17.4.0",
     "jest": "30.4.2",
     "ts-jest": "29.4.9",
